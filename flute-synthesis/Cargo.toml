@@ -1,0 +1,10 @@
+[package]
+name = "flute-synthesis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+assert_no_alloc = "1.1.2"
+cpal = "0.15.3"
+fundsp = "0.18.1"
